@@ -146,7 +146,7 @@ Sleep, 78
 Sleep, 16
 Sleep, 78
 Sleep, 1535
-Sleep, 465
+Sleep, 765
 Click, 973, 793, 0
 Sleep, 16
 Click, 975, 794, 0
@@ -270,7 +270,7 @@ Sleep, 2750
 SendRaw, level 4
 Click, 959, 799 Left, Down
 Click, 959, 799 Left, Up
-Sleep, 50
+Sleep, 75
 Click, 1022, 409, 0
 Click, 1022, 409 Left, Down
 Click, 1021, 409, 0
@@ -325,7 +325,7 @@ Click, 1165, 736, 0
 Click, 1181, 754, 0
 Click, 1189, 763, 0
 Click, 1191, 764 Left, Up
-Sleep, 2375
+Sleep, 2350
 SendRaw, level 5
 Sleep, 50
 Click, 959, 803, 0
@@ -492,7 +492,7 @@ Groups=Start:1
 123|[Pause]||1|16|Sleep|||||127|
 124|[Pause]||1|78|Sleep|||||128|
 125|[Pause]||1|1535|Sleep|||||129|
-126|[Pause]||1|465|Sleep|||||130|
+126|[Pause]||1|765|Sleep|||||130|
 127|Move|973, 793, 0|1|0|Click|||||131|
 128|[Pause]||1|16|Sleep|||||132|
 129|Move|975, 794, 0|1|0|Click|||||133|
@@ -616,7 +616,7 @@ Groups=Start:1
 247|[Text]|level 4|1|0|SendRaw|||||251|
 248|Left Move & Click|959, 799 Left, Down|1|0|Click|||||252|
 249|Left Move & Click|959, 799 Left, Up|1|0|Click|||||253|
-250|[Pause]||1|50|Sleep|||||254|
+250|[Pause]||1|75|Sleep|||||254|
 251|Move|1022, 409, 0|1|0|Click|||||255|
 252|Left Move & Click|1022, 409 Left, Down|1|0|Click|||||256|
 253|Move|1021, 409, 0|1|0|Click|||||257|
@@ -671,7 +671,7 @@ Groups=Start:1
 302|Move|1181, 754, 0|1|0|Click|||||306|
 303|Move|1189, 763, 0|1|0|Click|||||307|
 304|Left Move & Click|1191, 764 Left, Up|1|0|Click|||||308|
-305|[Pause]||1|2375|Sleep|||||309|
+305|[Pause]||1|2350|Sleep|||||309|
 306|[Text]|level 5|1|0|SendRaw|||||310|
 307|[Pause]||1|50|Sleep|||||311|
 308|Move|959, 803, 0|1|0|Click|||||312|
